@@ -1,0 +1,55 @@
+Earlier AIs
+- Recommendation System
+- Siri/Alexa
+
+Copilot 
+- less autonomy
+- user intervention
+
+Agentic AI
+- refers to a system that includes multipe AI agents
+- think, act and adapt
+- AI agents can work together or collaborate to solve problem
+- Refine its approach based on real world interaction. Eg. analyze trend, customer feedback with minimum user input
+- act based on pre-defined condition 
+- can break down complex goals into simpler forms; refine strategy automatically
+- Eg Devin from Cognition AI
+- Eg in supply chain : track order, reorder inventory and plan routes. Navigate disruption seamlessly eg. wearhouse robots navigates with no user intervetion by autonomously inspecting the settings
+- Eg in healthcare : lifecare decision acting as round the clock guardian monitoring glucose level, predicting
+
+
+Perception
+- pulls data from various sources (sensors, APIs, user input)
+
+Analysis
+- interprets collected data to determine output
+- Role: Neural Network to predict future trend
+
+Decision
+- Mix of rule based (reinforcement) or probabilistic model to determine the decision
+
+Action
+- Executes necessary steps to achieve desired output
+
+
+Cognitive Framework
+- to reason, plan and act more effectively
+- 2 most common frameworks are : 
+		1. SORE (State, Operator, and Result)
+			State - current situation or environment that the AI agent perceives
+			Operator - possible actions or steps the agent can take to change the current state
+			Result - outcome after applying an operator to the current state
+
+		2. BDI (Belief, Desire, Intention)
+			Belief - Information the agent has about the world
+			Desire - goal or outcome the agent aims to achieve
+			Intention - plan or course of action the agent takes in order to achieve its desired goals
+
+
+	Feature 					SOAR								BDI
+	
+	Decision Model 				Rule-based problem-solving			Goal-driven reasoning
+	Adaptability				Learns iteratively					Adapts to dynamic goals
+	Task Type					Sequential tasks					Goal prioritization
+	Use Case					Autonomous drones 					Smart home systems
+
